@@ -37,7 +37,6 @@ public class T21_mergeTwoLists {
             System.out.print(l.val+" ");
             l = l.next;
         }
-
     }
     
 }
