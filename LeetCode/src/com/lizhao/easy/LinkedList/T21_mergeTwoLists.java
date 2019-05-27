@@ -1,4 +1,4 @@
-package LinkedList;
+package com.lizhao.easy.LinkedList;
 
 /** 
 * @author by lizhao
