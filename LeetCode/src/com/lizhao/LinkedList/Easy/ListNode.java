@@ -1,4 +1,4 @@
-package com.lizhao.easy.LinkedList;
+package com.lizhao.LinkedList.Easy;
 /** 
 * @author by lizhao
 * @version 2019年5月27日 下午2:02:13 
