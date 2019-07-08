@@ -20,7 +20,6 @@ public class T21_mergeTwoLists {
             head.next = mergeTwoLists(l2.next, l1);
         }
         return head;
-        
     }
 
     public static void main(String[] args) {
